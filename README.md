@@ -13,6 +13,7 @@ Understand random number generation in JavaScript
 Learn how to select random items dynamically
 
 (Practice 2)
+
 Find Min and Max Values
 A simple JavaScript example that finds the minimum and maximum values in an array of numbers.
 How it works
